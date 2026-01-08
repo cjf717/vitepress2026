@@ -8,18 +8,18 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Markdown示例
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: API示例
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 特性A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 特性B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 特性C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

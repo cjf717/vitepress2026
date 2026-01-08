@@ -2,4 +2,4 @@
 ## vitepress
 
 ## 相关资料
-- [vitepress](https://vitepress.dev/zh/)
+- [vitepress官方文档](https://vitepress.dev/zh/)
