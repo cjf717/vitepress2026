@@ -8,21 +8,21 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown示例
+      text: Markdown示例packages
       link: /markdown-examples
     - theme: alt
-      text: API示例
+      text: API示例packages
       link: /api-examples
     - theme: alt
       text: 英特尔发布N系列处理器
       link: /英特尔发布N系列处理器
 
 features:
-  - title: 特性A
+  - title: packages特性A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 特性B
+  - title: packages特性B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 特性C
+  - title: packages特性C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
